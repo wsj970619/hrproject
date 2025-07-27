@@ -1,0 +1,157 @@
+2025-07-05 23:37:25.002 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 28348 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:37:25.004 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:37:25.004 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:37:25.922 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:37:25.941 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:37:25.941 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:37:25.976 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:37:26.630 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:37:26.657 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 1.894 seconds (JVM running for 2.498)
+2025-07-05 23:37:27.105 [ RMI TCP Connection(1)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:37:27.106 [ RMI TCP Connection(2)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:37:27.308 [ RMI TCP Connection(2)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:39:22.632 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:39:22.638 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:39:24.607 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 11716 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:39:24.608 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:39:24.609 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:39:25.578 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:39:25.578 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:39:25.578 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:39:25.611 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:39:26.249 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:39:26.280 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 1.905 seconds (JVM running for 2.501)
+2025-07-05 23:39:26.626 [ RMI TCP Connection(2)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:39:26.627 [ RMI TCP Connection(1)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:39:26.820 [ RMI TCP Connection(1)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:40:21.030 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:40:21.034 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:40:23.069 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 36208 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:40:23.071 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:40:23.071 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:40:24.006 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:40:24.006 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:40:24.007 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:40:24.043 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:40:24.731 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:40:24.764 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 1.933 seconds (JVM running for 2.547)
+2025-07-05 23:40:24.901 [ RMI TCP Connection(2)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:40:25.333 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:40:25.569 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:40:30.437 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:40:30.443 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:40:33.238 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 29020 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:40:33.239 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:40:33.240 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:40:34.151 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:40:34.151 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:40:34.152 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:40:34.189 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:40:34.922 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:40:34.956 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 1.952 seconds (JVM running for 2.513)
+2025-07-05 23:40:35.291 [ RMI TCP Connection(1)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:40:35.537 [ RMI TCP Connection(4)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:40:35.733 [ RMI TCP Connection(4)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:42:42.963 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:42:42.969 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:42:45.771 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 35176 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:42:45.773 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:42:45.773 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:42:46.688 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:42:46.688 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:42:46.689 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:42:46.722 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:42:47.372 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:42:47.400 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 1.859 seconds (JVM running for 2.49)
+2025-07-05 23:42:47.861 [ RMI TCP Connection(2)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:42:47.861 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:42:48.055 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:43:28.988 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:43:28.996 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:44:33.679 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 28108 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:44:33.681 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:44:33.681 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:44:34.654 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:44:34.655 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:44:34.655 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:44:34.689 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:44:35.419 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:44:35.452 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 1.989 seconds (JVM running for 2.545)
+2025-07-05 23:44:35.883 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:44:36.128 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:44:36.294 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:49:34.902 [ Thread-301 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:49:34.907 [ Thread-301 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:49:35.029 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 28108 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:49:35.030 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:49:35.030 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:49:35.309 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:49:35.309 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:49:35.309 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:49:35.315 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:49:35.671 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:49:35.682 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 0.673 seconds (JVM running for 302.776)
+2025-07-05 23:51:28.028 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 28108 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:51:28.028 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:51:28.028 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:51:28.336 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:51:28.336 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:51:28.336 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:51:28.343 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:51:28.753 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:51:28.765 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 0.76 seconds (JVM running for 415.859)
+2025-07-05 23:51:31.791 [ http-nio-8090-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:51:39.430 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 10556 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:51:39.432 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:51:39.433 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:51:40.806 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:51:40.807 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:51:40.807 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:51:40.878 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:51:41.955 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:51:42.006 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 2.917 seconds (JVM running for 3.821)
+2025-07-05 23:51:42.723 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:51:42.858 [ RMI TCP Connection(4)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:51:43.215 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:53:38.221 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:53:38.229 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:53:41.177 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 30596 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:53:41.180 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:53:41.180 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:53:42.516 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8091"]
+2025-07-05 23:53:42.517 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:53:42.517 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:53:42.579 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:53:43.594 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8091"]
+2025-07-05 23:53:43.643 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 2.831 seconds (JVM running for 3.734)
+2025-07-05 23:53:43.747 [ RMI TCP Connection(1)-192.168.1.3 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:53:44.443 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:53:45.020 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:56:00.048 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:56:00.057 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:56:02.434 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 33736 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:56:02.437 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:56:02.437 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:56:03.883 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8091"]
+2025-07-05 23:56:03.883 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:56:03.883 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:56:03.950 [ restartedMain ] - [ INFO  ] [ o.a.c.c.C.[Tomcat].[localhost].[/hrsysspringboot] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:56:05.290 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8091"]
+2025-07-05 23:56:05.350 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 3.248 seconds (JVM running for 4.087)
+2025-07-05 23:56:05.940 [ RMI TCP Connection(4)-192.168.1.3 ] - [ INFO  ] [ o.a.c.c.C.[Tomcat].[localhost].[/hrsysspringboot] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:56:06.092 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:56:06.646 [ RMI TCP Connection(5)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
+2025-07-05 23:56:18.733 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - DatebookHikariCP - Shutdown initiated...
+2025-07-05 23:56:18.748 [ SpringContextShutdownHook ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - DatebookHikariCP - Shutdown completed.
+2025-07-05 23:56:21.244 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 55 ] - Starting HrsysSpringbootApplication on WangShijie with PID 32460 (E:\Code\Springboot_Study\hrproject\hrsys_springboot\target\classes started by 17480 in E:\Code\Springboot_Study\hrproject)
+2025-07-05 23:56:21.247 [ restartedMain ] - [ DEBUG ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 56 ] - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2025-07-05 23:56:21.247 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 651 ] - No active profile set, falling back to default profiles: default
+2025-07-05 23:56:22.653 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:56:22.654 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-07-05 23:56:22.654 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.36]
+2025-07-05 23:56:22.714 [ restartedMain ] - [ INFO  ] [ o.a.c.c.C.[Tomcat].[localhost].[/hrsysspringboot] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-07-05 23:56:23.715 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8090"]
+2025-07-05 23:56:23.764 [ restartedMain ] - [ INFO  ] [ c.alan.hrsys.springboot.HrsysSpringbootApplication : 61 ] - Started HrsysSpringbootApplication in 2.885 seconds (JVM running for 3.813)
+2025-07-05 23:56:24.398 [ RMI TCP Connection(1)-192.168.1.3 ] - [ INFO  ] [ o.a.c.c.C.[Tomcat].[localhost].[/hrsysspringboot] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-05 23:56:24.522 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - DatebookHikariCP - Starting...
+2025-07-05 23:56:24.987 [ RMI TCP Connection(3)-192.168.1.3 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - DatebookHikariCP - Start completed.
