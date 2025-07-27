@@ -8,6 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.alan.hrsys.dao")
 public class HrsysSpringbootApplication {
     public static void main(String[] args) {
+
         SpringApplication.run(HrsysSpringbootApplication.class, args);
+
     }
 }
